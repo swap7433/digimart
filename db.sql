@@ -1,6 +1,6 @@
 
 //Customer database
-CREATE TABLE  "customer" 
+CREATE TABLE  "digi_customer" 
    (	"cust_id" NUMBER NOT NULL ENABLE,
 	"cust_name" VARCHAR2(4000), 
 	"cust_email" VARCHAR2(4000), 
