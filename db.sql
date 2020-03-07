@@ -20,15 +20,7 @@ CREATE TABLE  "digi_customer"
 	"cust_bank_ifsc" VARCHAR2(4000), 
    );
    
-   CREATE TABLE  "digi_cust_carrd" 
-   (	"cust_id" NUMBER NOT NULL ENABLE,
-	"cust_Card_name" VARCHAR2(4000), 
-	"cust_Card_number" VARCHAR2(4000), 
-	"cust_card_ccv" VARCHAR2(4000)
-	"cust_bank_name" VARCHAR2(4000), 
-	"cust_bank_accno" VARCHAR2(4000), 
-	"cust_bank_ifsc" VARCHAR2(4000), 
-   );
+  
    
   //seller Databse
    
